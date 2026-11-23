@@ -2,8 +2,7 @@
 
 Game tebak angka bertema anime Bleach, dibuat pakai HTML, CSS, dan JavaScript.
 
-🔗 **Main di sini:** https://muqorobin298-lab.github.io/Tebak-Angka-Bleach/
-
+🔗 **Main di sini:** https://muqorobin298-lab.github.io/Tebak-Angka-Bleach-/
 ## Fitur
 - Tebak angka 1-100 dengan 7 kesempatan
 - Petunjuk lebih besar atau lebih kecil
